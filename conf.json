@@ -1,0 +1,23 @@
+{
+	"52": {
+		"ini": "/usr/local/etc/php/5.2/<version>/php.ini",
+		"conf": "/usr/local/etc/php/5.2/apache.conf",
+		"bin":"/usr/local/Cellar/php52/<version>/bin/php"
+	}, 
+	"53": {
+		"ini": "/usr/local/etc/php/5.3/<version>/php.ini",
+		"conf": "/usr/local/etc/php/5.3/apache.conf",
+		"bin":"/usr/local/Cellar/php53/<version>/bin/php"
+	}, 
+	"54": {
+		"ini": "/usr/local/etc/php/5.4/<version>/php.ini",
+		"conf": "/usr/local/etc/php/5.4/apache.conf",
+		"bin":"/usr/local/Cellar/php54/<version>/bin/php"
+	},
+	"default": "53",
+	"apachephp": "/usr/local/etc/apache2/httpd-php.conf",
+	"phpbin": "/usr/local/bin/php",
+	"phpini": "/usr/local/etc/php.ini",
+	"linkdir": "/usr/local/opt/"
+
+}

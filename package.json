@@ -1,0 +1,29 @@
+{
+  "name": "phpswitch",
+  "description": "Switch current php version",
+  "version": "0.0.1",
+  "keywords": [
+    "apache2",
+    "php"
+  ],
+  "bin": {
+    "phpswitch": "./bin/phpswitch"
+  },
+  "dependencies": {
+    "optimist": "*"
+  },
+  "_id": "phpswitch@0.0.1",
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "_engineSupported": true,
+  "_npmVersion": "1.1.24",
+  "_nodeVersion": "v0.8.3",
+  "_defaultsLoaded": true,
+  "dist": {
+    "shasum": "10101ab54c8d318bfca1cb5407f9e310ac077f51"
+  },
+  "_from": "."
+}
